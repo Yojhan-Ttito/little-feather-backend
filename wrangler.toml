@@ -3,3 +3,6 @@ account_id = "d7f5627db03f2ac9087f44036f1f29a4"
 workers_dev = true
 compatibility_date = "2026-02-15"
 main = "src/index.js"
+kv_namespaces = [
+  { binding = "SALES", id = "567d4038376d4931850d75b01da0903e" }
+]
