@@ -24,3 +24,4 @@ El repo está conectado con \*\*GitHub Actions\*\* para publicar automáticament
 
 
 
+# Cambio mínimo para disparar CI/CD
